@@ -24,7 +24,7 @@
 #include "texta/inet/cgi/main.hpp"
 #include "texta/t/processor.hpp"
 
-#define TEXTA_INET_CGI_NAME "texta-cgi"
+#define TEXTA_INET_CGI_NAME "textacgi"
 #define TEXTA_INET_CGI_INPUT_NAME "input"
 
 #define TEXTA_INET_CGI_PARAM_TEMPLATE_FILE_NAMES \
